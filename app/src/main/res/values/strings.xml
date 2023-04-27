@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="details">Info</string>
+    <string name="back">BACK</string>
+    <string name="typical_image_of_animal">Typical image of animal</string>
+    <string name="cat_description">The cat is a small carnivorous mammal belonging to the Felidae family. They are one of the most popular pets in the world, known for their playful and affectionate nature. Cats have a sleek and muscular body, with sharp retractable claws, and a long tail that helps them maintain balance. They have excellent eyesight, sharp hearing, and a highly developed sense of smell. </string>
+    <string name="dog_description">The dog is a domesticated mammal and a popular pet that belongs to the Canidae family. Dogs come in a wide range of breeds, each with their own unique physical characteristics and temperament. They vary in size from small breeds like Chihuahuas to large breeds like Great Danes.</string>
+    <string name="mouse_description">The mouse is a small mammal belonging to the rodent family. They are found in various parts of the world, including both urban and rural areas. Mice have a small, round body with pointed snouts, large ears, and long tails that help them maintain balance. </string>
+</resources>
